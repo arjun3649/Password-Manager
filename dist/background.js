@@ -1,11 +1,11 @@
 /******/ (() => { // webpackBootstrap
 var __webpack_exports__ = {};
 /*!**************************************!*\
-  !*** ./src/background/background.ts ***!
+  !*** ./src/background/background.js ***!
   \**************************************/
 // TODO: background script
 chrome.runtime.onInstalled.addListener(() => {
-    // TODO: on installed function
+  // TODO: on installed function
 });
 
 /******/ })()

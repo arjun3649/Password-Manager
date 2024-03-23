@@ -1,15 +1,15 @@
-import * as React from 'react'
-import { render } from 'react-dom'
-import './popup.css'
+import * as React from "react";
+import { render } from "react-dom";
+import "./popup.css";
 
 const App: React.FC<{}> = () => {
   return (
     <div>
-      <img src="icon.png" />
+      <h1> whats app bitches</h1>
     </div>
-  )
-}
+  );
+};
 
-const root = document.createElement('div')
-document.body.appendChild(root)
-render(<App />, root)
+const root = document.createElement("div");
+document.body.appendChild(root);
+render(<App />, root);

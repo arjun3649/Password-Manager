@@ -1,7 +1,7 @@
 /******/ (() => { // webpackBootstrap
 var __webpack_exports__ = {};
 /*!********************************************!*\
-  !*** ./src/contentScript/contentScript.ts ***!
+  !*** ./src/contentScript/contentScript.js ***!
   \********************************************/
 // TODO: content script
 

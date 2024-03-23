@@ -1,1 +1,1 @@
-{"version":3,"file":"contentScript.js","mappings":";;;;;AAAA","sources":["webpack://react-chrome-extension/./src/contentScript/contentScript.ts"],"sourcesContent":["// TODO: content script\n"],"names":[],"sourceRoot":""}
+{"version":3,"file":"contentScript.js","mappings":";;;;;AAAA","sources":["webpack://react-chrome-extension/./src/contentScript/contentScript.js"],"sourcesContent":["// TODO: content script\n"],"names":[],"sourceRoot":""}
